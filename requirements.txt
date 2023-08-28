@@ -1,3 +1,5 @@
 langchain
-spacy
+spacy==3.6.0
 requests
+openai
+https://github.com/explosion/spacy-models/releases/download/zh_core_web_sm-3.6.0/zh_core_web_sm-3.6.0-py3-none-any.whl
